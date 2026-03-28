@@ -1,0 +1,2 @@
+TITANIC_TRAIN: dataset/titanic/train.csv
+TITANIC_TEST: dataset/titanic/test.csv
